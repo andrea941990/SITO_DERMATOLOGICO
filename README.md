@@ -1,12 +1,13 @@
 # Serena — Dermatologia
 
-Prima bozza statica, responsive, in italiano. Aprire `index.html` nel browser oppure avviare `python3 -m http.server 8080` nella cartella.
+Seconda bozza statica, responsive, in italiano. Aprire `index.html` nel browser oppure avviare `python3 -m http.server 8080` nella cartella.
 
 ## Direzione
 
 - Prevenzione come filo conduttore: «La pelle, specchio della salute».
-- Apertura: «La pelle parla. Ascoltiamola.»
+- Apertura: «Dermatologia. Oltre la superficie.»
 - Quattro ambiti: prevenzione, dermatologia clinica, dermatologia pediatrica, tricologia e annessi cutanei.
+- Ruolo del dermatologo: prevenire, curare, correggere; approccio alla persona nel suo insieme.
 - Petrolio, corallo e bianco caldo; illustrazione SVG originale integrata, nessuna foto sostitutiva di Serena.
 - Menu mobile, sezioni espandibili e domande frequenti; nessun modulo raccoglie dati.
 
