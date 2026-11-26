@@ -1,18 +1,16 @@
-# Serena — Dermatologia
+# Serena — Dermatologia / V2
 
-Seconda bozza statica, responsive, in italiano. Aprire `index.html` nel browser oppure avviare `python3 -m http.server 8080` nella cartella.
+Bozza multipagina sul branch sviluppo-v2. Main resta il checkpoint originale.
 
-## Direzione
+## Anteprima
 
-- Prevenzione come filo conduttore: «La pelle, specchio della salute».
-- Apertura: «Dermatologia. Oltre la superficie.»
-- Quattro ambiti: prevenzione, dermatologia clinica, dermatologia pediatrica, tricologia e annessi cutanei.
-- Ruolo del dermatologo: prevenire, curare, correggere; approccio alla persona nel suo insieme.
-- Petrolio, corallo e bianco caldo; illustrazione SVG originale integrata, nessuna foto sostitutiva di Serena.
-- Menu mobile, sezioni espandibili e domande frequenti; nessun modulo raccoglie dati.
+GitHub → Settings → Pages → Build and deployment → Deploy from a branch → sviluppo-v2 → / (root) → Save. Attenzione: GitHub Pages su repository pubblica rende la bozza accessibile pubblicamente; noindex non è un controllo di accesso. Attivare solo dopo autorizzazione. In alternativa scaricare il branch ZIP e aprire index.html in locale.
 
-## Prima della pubblicazione
+## Verifiche prima della pubblicazione
 
-Confermare con Serena testi clinici e prestazioni. Inserire cognome, qualifica completa e dati professionali verificati, ritratto autorizzato, sedi, contatti e modalità di prenotazione. Completare le informazioni legali e privacy in base alla configurazione effettiva. La bozza include `noindex,nofollow`: rimuoverlo quando il sito completo sarà pronto per l'indicizzazione. I caratteri sono richiesti a Google Fonts; valutare di ospitarli localmente nella versione finale. Nessun analytics, cookie di profilazione o servizio di prenotazione è integrato.
-
-Nessuna procedura di deploy automatico è configurata.
+- Confermare identità professionale, prestazioni, testi, sedi e recapiti.
+- Collaudare navigazione, tastiera, contrasto e layout mobile/desktop.
+- Definire hosting, log, privacy, informazioni professionali e dominio HTTPS.
+- Nessun modulo attivo, nessun analytics, nessuna richiesta a Google Fonts.
+- Prenotazioni: progettare backend separato, minimizzazione, approvazione e integrazione locale; non usare GitHub per dati pazienti.
+- Rimuovere noindex soltanto dopo approvazione definitiva.
